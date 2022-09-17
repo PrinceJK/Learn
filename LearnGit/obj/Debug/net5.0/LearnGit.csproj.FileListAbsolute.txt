@@ -1,0 +1,16 @@
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.exe
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.deps.json
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.runtimeconfig.json
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.runtimeconfig.dev.json
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.dll
+C:\Users\kehin\source\repos\LearnGit\LearnGit\bin\Debug\net5.0\LearnGit.pdb
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.csproj.AssemblyReference.cache
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.AssemblyInfoInputs.cache
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.AssemblyInfo.cs
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.csproj.CoreCompileInputs.cache
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.dll
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\refint\LearnGit.dll
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.pdb
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\LearnGit.genruntimeconfig.cache
+C:\Users\kehin\source\repos\LearnGit\LearnGit\obj\Debug\net5.0\ref\LearnGit.dll
